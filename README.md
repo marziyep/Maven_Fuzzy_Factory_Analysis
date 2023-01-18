@@ -1,3 +1,2 @@
-# Website_Traffic_Analysis
-Tryin to understand where the bulk of the website ssession are comming from before april,2012!
-To see a breakdown by UTM source,campaign and refering domain.
+# Maven_Fuzzy_Factory_Analysis
+# Taking a closer look at different aspects of maven fuzzy factory data set,calculating revenue,development and shortages
